@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  안녕 !!! by 팀원1
+	Hello world!  [작성작성] by 팀장(gg) 안녕 !!! by 팀원1
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
